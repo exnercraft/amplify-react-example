@@ -11,6 +11,7 @@ import {
 
 function App({ signOut }) {
   return (
+    
     <View className="App">
       <Card>
         <Image src={logo} className="App-logo" alt="logo" />
