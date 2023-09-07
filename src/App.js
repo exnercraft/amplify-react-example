@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>VERSION 2 auto deploy</h1>
       </header>
     </div>
   );
